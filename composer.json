@@ -237,6 +237,7 @@
     "wpackagist-plugin/amazon-s3-and-cloudfront": "*",
     "wpackagist-plugin/breadcrumb-navxt": "*",
     "wpackagist-plugin/classic-editor": "*",
+    "wpackagist-plugin/custom-post-type-date-archives": "*",
     "wpackagist-plugin/custom-post-type-permalinks": "*",
     "wpackagist-plugin/custom-post-type-ui": "*",
     "wpackagist-plugin/duplicate-post": "*",
@@ -250,13 +251,8 @@
     "wpackagist-plugin/wp-dashboard-notes": "*",
     "wpackagist-plugin/wp-mail-smtp": "*",
     "wpackagist-plugin/wp-multibyte-patch": "*",
-<<<<<<< HEAD
-    "wpackagist-plugin/wp-super-cache": "*",
-    "wpackagist-plugin/custom-post-type-date-archives": "*"
-=======
     "wpackagist-plugin/wp-fastest-cache": "*",
     "wpackagist-plugin/wp-super-cache": "*"
->>>>>>> upstream/master
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.5.4",
